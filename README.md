@@ -87,8 +87,8 @@ The application is configured for automatic deployment on Vercel:
 
 The application is currently deployed on **Netlify**:
 
-- **Live URL**: `https://vocal-speculoos-d47519.netlify.app/login`
-- **Repository**: ``
+- **Live URL**: `https://vocal-speculoos-d47519.netlify.app/`
+- **Repository**: `https://github.com/Hawk1430/music-library-main-app`
 
 ### Environment Variables
 
