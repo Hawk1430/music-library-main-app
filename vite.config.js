@@ -11,7 +11,7 @@ export default defineConfig({
       name: "main-app",
       remotes: {
         "music-library-mf": {
-          type: "module", // Ensure this is set to 'module'
+          type: "module",
           name: "music-library-mf",
           entry: "https://stellar-sawine-73d5eb.netlify.app/remoteEntry.js",
           entryGlobalName: "music-library-mf",
