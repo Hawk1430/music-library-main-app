@@ -177,6 +177,7 @@ main-app/
 
 ## 🔗 Related
 
-- [Music Library MF](./../music-library-mf/README.md) - The remote micro frontend
-- [Main Project README](./../README.md) - Overall project documentation
+- [Music Library MF](https://github.com/Hawk1430/music-library-mf/blob/main/README.md) - The remote micro frontend
+- [Main Project README](https://github.com/Hawk1430/music-library-main-app?tab=readme-ov-file) - Overall project documentation
+
 # music-library-main-app
