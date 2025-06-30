@@ -42,6 +42,21 @@ npm run build
 
 # Preview the production build
 npm run preview
+
+
+## 🚀 Deployment to Netlify
+
+### Current Deployment
+
+The application is currently deployed on **Netlify**:
+
+- **Live URL**: `https://vocal-speculoos-d47519.netlify.app/`
+- **Repository**: `https://github.com/Hawk1430/music-library-main-app`
+
+### Environment Variables
+
+No environment variables are required for this demo application.
+
 ```
 
 ## 🔐 Authentication System
@@ -81,18 +96,6 @@ The application is configured for automatic deployment on Vercel:
    - Output Directory: `dist`
    - Install Command: `npm install`
 
-## 🚀 Deployment to Netlify
-
-### Current Deployment
-
-The application is currently deployed on **Netlify**:
-
-- **Live URL**: `https://vocal-speculoos-d47519.netlify.app/`
-- **Repository**: `https://github.com/Hawk1430/music-library-main-app`
-
-### Environment Variables
-
-No environment variables are required for this demo application.
 
 ## 🔧 Technical Details
 
